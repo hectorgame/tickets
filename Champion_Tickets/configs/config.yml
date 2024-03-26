@@ -15,11 +15,11 @@ version: "1.4.6.3"
 
 general:
   # Name of the Bot
-  name: "Champion Tickets"
+  name: "DeathRow Tickets"
   # Bot's Prefix
   prefix: "-"
   # Bot Token obtained from Discord Developer Portal
-  token: ""
+  token: "MTIxOTQxNTc5MTEyOTIwMjc3OQ.Gkd6x6.27z62Hr43NYgC-ytEXeLhtlFGRpdqcbokyhxhk"
   # Mention Support Role in new Tickets
   mention_support: false
   # Mention Ticket Author in new Tickets
@@ -345,7 +345,7 @@ status:
   # Interval to Change Custom Status (in seconds)
   interval: 180 # 3 minutes, don't go below that
   # Message which is displayed in Custom Status if change_random = false
-  message: "Champion Tickets v1.4.6.3"
+  message: "DeathRow"
   # List of Custom Status's if change_random = true
   # Valid Placeholders: <members>, <channels>, <currentTickets> (Number of Current Tickets), <totalTickets> (Total Tickets Opened)
   messages:
