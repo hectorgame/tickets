@@ -12,11 +12,11 @@
 # ________________________________________________
 
 # Title of every Embed
-title: "Champion Tickets"
+title: "DeathRow Support"
 # Title of Suggestion Embed
 suggestion_title: "Suggestion"
 # Footer of Every Embed
-footer: "Champion Tickets Bot"
+footer: "DeathRow Support"
 # Embed Color for Errors or Negative Responses
 error_color: "RED"
 # Embed Color for Success or Positive Responses
